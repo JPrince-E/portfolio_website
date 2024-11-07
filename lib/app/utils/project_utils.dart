@@ -14,22 +14,8 @@ class ProjectUtils {
 }
 
 List<ProjectUtils> projectUtils = [
-  ProjectUtils(
-    banners: 'assets/imgs/two.png',
-    icons: 'assets/imgs/flutter.png',
-    titles: 'Instagram Clone',
-    description:
-        'Here, both the web and android version is built. it is functional and responsive.',
-    links: 'https://github.com/JPrince-E/instagram_flutter',
-  ),
-  ProjectUtils(
-    banners: 'assets/imgs/One.png',
-    icons: 'assets/imgs/flutter.png',
-    titles: 'WhatsApp Clone',
-    description:
-        'This is a Whatsapp clone built with flutter. It can send, receive messages, files, etc',
-    links: 'https://github.com/JPrince-E/Whatsapp',
-  ),
+
+
   ProjectUtils(
     banners: 'assets/imgs/Three.png',
     icons: 'assets/imgs/flutter.png',
@@ -39,11 +25,29 @@ List<ProjectUtils> projectUtils = [
     links: 'https://github.com/JPrince-E/flutter-portfolio',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/Four.png',
+    banners: 'assets/imgs/NoOne.jpg',
     icons: 'assets/imgs/flutter.png',
-    titles: 'QR Scanner',
+    titles: 'Telehealth App',
     description:
-        'This is a QR COde scanner that scans QR COdes and displays its value on the screen. It can also generates QR Code',
-    links: 'https://github.com/JPrince-E/qr_scanner',
+    'This is a Telehealth App. Patients can consult doctors, and book appointment with doctors.',
+    links: 'https://github.com/JPrince-E/telehealth_app',
   ),
+
+  ProjectUtils(
+    banners: 'assets/imgs/NoTwo.png',
+    icons: 'assets/imgs/flutter.png',
+    titles: 'Med Minder',
+    description:
+    'This is a medication Reminder application where patients are notified of due schedules and they can contact health care providers in case of emergency',
+    links: 'https://github.com/JPrince-E/med_minder',
+  ),
+
+  // ProjectUtils(
+  //   banners: 'assets/imgs/Four.png',
+  //   icons: 'assets/imgs/flutter.png',
+  //   titles: 'QR Scanner',
+  //   description:
+  //       'This is a QR COde scanner that scans QR COdes and displays its value on the screen. It can also generates QR Code',
+  //   links: 'https://github.com/JPrince-E/qr_scanner',
+  // ),
 ];
