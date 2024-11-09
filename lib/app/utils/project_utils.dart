@@ -34,14 +34,13 @@ List<ProjectUtils> projectUtils = [
   ),
 
   ProjectUtils(
-    banners: 'assets/imgs/NoTwo.png',
+    banners: 'assets/imgs/NoTwo.jpg',
     icons: 'assets/imgs/flutter.png',
     titles: 'Med Minder',
     description:
     'This is a medication Reminder application where patients are notified of due schedules and they can contact health care providers in case of emergency',
     links: 'https://github.com/JPrince-E/med_minder',
   ),
-
   // ProjectUtils(
   //   banners: 'assets/imgs/Four.png',
   //   icons: 'assets/imgs/flutter.png',
