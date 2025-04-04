@@ -25,7 +25,7 @@ List<ProjectUtils> projectUtils = [
     links: 'https://github.com/JPrince-E/flutter-portfolio',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/NoOne.jpg',
+    banners: 'assets/imgs/NoOne.png',
     icons: 'assets/imgs/flutter.png',
     titles: 'Telehealth App',
     description:
@@ -34,7 +34,7 @@ List<ProjectUtils> projectUtils = [
   ),
 
   ProjectUtils(
-    banners: 'assets/imgs/NoTwo.jpg',
+    banners: 'assets/imgs/NoTwo.png',
     icons: 'assets/imgs/flutter.png',
     titles: 'Med Minder',
     description:
